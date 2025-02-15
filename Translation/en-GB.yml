@@ -1,15 +1,15 @@
-en-GB: 
+ en-RU: 
 #SETTING PAGE
-  lang_name_t: 'English'
+  lang_name_t: 'Русский'
 
-  min_time_t_1: '1min'
-  min_time_t_2: '2min'
-  min_time_t_3: '3min'
-  min_time_t_5: '5min'
-  min_time_t_10: '10min'
-  min_time_t_15: '15min'
-  min_time_t_60: '60min' 
-  sleep_time_t_always: 'Always On'
+  min_time_t_1: '1 минута'
+  min_time_t_2: '2 минута'
+  min_time_t_3: '3 минута'
+  min_time_t_5: '5 минута'
+  min_time_t_10: '10 минута'
+  min_time_t_15: '15 минута'
+  min_time_t_60: '60 минута' 
+  sleep_time_t_always: 'Всегда включен'
   
   setting_gen_t: 'General'
   setting_net_t: 'Network'
